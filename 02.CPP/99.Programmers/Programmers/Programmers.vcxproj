@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\[Programmers]문자열 압축\StringDecomp.cpp" />
+    <ClCompile Include="..\..\01.Completed\[Programmers]문자열 압축\StringDecomp.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

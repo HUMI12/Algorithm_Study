@@ -18,7 +18,7 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\[Programmers]문자열 압축\StringDecomp.cpp">
+    <ClCompile Include="..\..\01.Completed\[Programmers]문자열 압축\StringDecomp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
